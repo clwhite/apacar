@@ -1,0 +1,4 @@
+dependencies: \
+  /Users/hdkim/Projects/apacar/node_modules/react-native/React/Base/RCTMultipartDataTask.m \
+  /Users/hdkim/Projects/apacar/node_modules/react-native/React/Base/RCTMultipartDataTask.h \
+  /Users/hdkim/Projects/apacar/node_modules/react-native/React/Base/RCTMultipartStreamReader.h

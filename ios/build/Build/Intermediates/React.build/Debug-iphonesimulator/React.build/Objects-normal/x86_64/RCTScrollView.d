@@ -1,0 +1,34 @@
+dependencies: \
+  /Users/hdkim/Projects/apacar/node_modules/react-native/React/Views/ScrollView/RCTScrollView.m \
+  /Users/hdkim/Projects/apacar/node_modules/react-native/React/Views/ScrollView/RCTScrollView.h \
+  /Users/hdkim/Projects/apacar/node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h \
+  /Users/hdkim/Projects/apacar/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/hdkim/Projects/apacar/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/hdkim/Projects/apacar/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/hdkim/Projects/apacar/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/hdkim/Projects/apacar/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/hdkim/Projects/apacar/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/hdkim/Projects/apacar/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/hdkim/Projects/apacar/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/hdkim/Projects/apacar/node_modules/react-native/React/Views/ScrollView/RCTScrollableProtocol.h \
+  /Users/hdkim/Projects/apacar/node_modules/react-native/React/Views/RCTView.h \
+  /Users/hdkim/Projects/apacar/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/hdkim/Projects/apacar/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/hdkim/Projects/apacar/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/hdkim/Projects/apacar/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/hdkim/Projects/apacar/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/hdkim/Projects/apacar/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/hdkim/Projects/apacar/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/hdkim/Projects/apacar/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/hdkim/Projects/apacar/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/hdkim/Projects/apacar/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/hdkim/Projects/apacar/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/hdkim/Projects/apacar/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/hdkim/Projects/apacar/node_modules/react-native/React/Modules/RCTUIManager.h \
+  /Users/hdkim/Projects/apacar/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/hdkim/Projects/apacar/node_modules/react-native/React/Views/RCTViewManager.h \
+  /Users/hdkim/Projects/apacar/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/hdkim/Projects/apacar/node_modules/react-native/React/Modules/RCTUIManagerObserverCoordinator.h \
+  /Users/hdkim/Projects/apacar/node_modules/react-native/React/Modules/RCTUIManagerUtils.h \
+  /Users/hdkim/Projects/apacar/node_modules/react-native/React/Views/UIView+Private.h \
+  /Users/hdkim/Projects/apacar/node_modules/react-native/React/Views/RCTRefreshControl.h

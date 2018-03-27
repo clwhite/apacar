@@ -1,0 +1,10 @@
+dependencies: \
+  /Users/hdkim/Projects/apacar/node_modules/react-native/React/Views/RCTDatePicker.m \
+  /Users/hdkim/Projects/apacar/node_modules/react-native/React/Views/RCTDatePicker.h \
+  /Users/hdkim/Projects/apacar/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/hdkim/Projects/apacar/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/hdkim/Projects/apacar/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/hdkim/Projects/apacar/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/hdkim/Projects/apacar/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/hdkim/Projects/apacar/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/hdkim/Projects/apacar/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h
